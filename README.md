@@ -1,4 +1,4 @@
-# Q-Learning_Guitar-Building-Factory
+# Q-Learning : Guitar Building Factory
 Build a few autonomous robots for a guitar building factory
 
 <br/>
