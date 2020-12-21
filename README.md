@@ -93,3 +93,11 @@ With this cue, we can construct a reward table which contains all the reward val
 ![image-20201221160258129](README.assets/image-20201221160258129.png)
 
 In the above table, we have all the possible rewards that a robot can get by moving in between the different states.
+
+<br/>
+
+<br/>
+
+###### Ref. https://blog.floydhub.com/an-introduction-to-q-learning-reinforcement-learning/
+
+**[Accessed Dec 21, 2021]**
