@@ -3,6 +3,20 @@ Build a few autonomous robots for a guitar building factory
 
 <br/>
 
+### Usage - Running Jupyter notebook
+
+**Running in a local installation**
+
+Launch with:
+
+```
+$ jupyter notebook
+```
+
+<br/>
+
+<br/>
+
 ## Defining the problem statement
 
 We are to build a few autonomous robots for a guitar building factory.
